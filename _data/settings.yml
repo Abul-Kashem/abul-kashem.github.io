@@ -9,14 +9,14 @@ settings:
 ### Preloader
 preloader:
   logo:
-    image: "assets/img/ober_logo.png"
+    image: "assets/img/shopify.png"
     alt: ""
 
 ### Header
 header:
   logo:
-    image: "assets/img/ober_logo0.png"
-    alt: "Joé Wilson"
+    image: "assets/img/shopify.png"
+    alt: "Abul Kashem"
 
 ### Social
 social:
